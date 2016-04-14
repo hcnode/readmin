@@ -1,10 +1,11 @@
-## Usages
+## Usages 
 
 * `npm install readmin --save`
 * import module `import readmin from 'readmin'`
 * call module as function `readmin(config)`
 
 ## Config
+
 
 ```javascript
     components: [ // content components
